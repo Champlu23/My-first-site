@@ -1,0 +1,80 @@
+
+body {
+    background-color: rgb(144, 231, 214);
+    padding: 0;
+
+  }
+
+
+h1, h2, ul, li{
+    font-family: 'Sanista Swashed', cursive;
+    font-size: large;
+}
+
+li {
+    position: relative;
+    right:20px;
+    margin: 5px 0; /* Добавляет вертикальные отступы между пунктами списка */
+}
+
+
+
+img{
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 0px 0px 15px 2px rgb(0, 0, 0, 0.95); 
+}
+
+#reference {
+    color:#343573
+}
+
+
+#about_me{
+ position: absolute;
+ left: 330px;
+ bottom:620px;
+}
+
+#skills {
+    position: relative;
+    left: 285px;
+    top:20px;
+}
+
+#li1 {
+    position: relative;
+    left: 40px;    
+}
+
+#li2 {
+    position: relative;
+    left: 40px;
+}
+
+#li3 {
+    position: relative;
+    left: 40px;
+}
+
+#git {
+    position: relative;
+    top: 100px;
+}
+
+#vk {
+    position: relative;
+    top:100px;
+}
+
+#email {
+    position: relative;
+    top: 100px;
+}
+
+#imgskills {
+    position: relative;
+    top:230px;
+    right: 300px;
+    width: 300px;
+}
